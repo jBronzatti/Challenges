@@ -1,0 +1,1 @@
+checkPalindrome = (str) => str == str.split('').reverse().join('');
